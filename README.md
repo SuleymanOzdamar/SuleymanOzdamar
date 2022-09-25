@@ -16,7 +16,7 @@
 <p align="start">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SuleymanOzdamar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&layout=compact">
-<img height="2000em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanOzdamar&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanOzdamar&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
 </p>
 
 
