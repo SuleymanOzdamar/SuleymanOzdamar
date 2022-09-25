@@ -19,6 +19,7 @@
 <img align="" height='150px' src="https://github-readme-stats-aryashah2k.vercel.app/api?username=SuleymanOzdamar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuleymanOzdamar&theme=gotham)](https://git.io/streak-stats)
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
