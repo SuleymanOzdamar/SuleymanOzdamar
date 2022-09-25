@@ -14,6 +14,10 @@
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanOzdamar&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
 </p>
 
+<p align="center">
+<img align="" height='150px' src="https://github-readme-stats-aryashah2k.vercel.app/api?username=SuleymanOzdamar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
