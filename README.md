@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
 
-## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
+## <img alt=".." height="25rem" src="https://cdn-icons-png.flaticon.com/512/2958/2958864.png" /> GitHub Analytics
 <p align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SuleymanOzdamar&&show_icons=true&title_color=81C784&icon_color=81C784&text_color=daf7dc&bg_color=151515">
 <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
@@ -13,12 +13,12 @@
 
 
 
-## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> My Graphic
+## <img alt=".." height="25rem" src="https://cdn-icons-png.flaticon.com/512/2958/2958864.png" /> My Graphic
 
 ![](https://activity-graph.herokuapp.com/graph?username=SuleymanOzdamar&theme=react-dark&area=true)
 
 
-## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> Contact me
+## <img alt=".." height="25rem" src="https://cdn-icons-png.flaticon.com/512/2958/2958864.png" /> Contact me
 <a href="https://www.linkedin.com/in/s%C3%BCleyman-%C3%B6zdamar-35020a199/" target="_blank" rel="nofollow">
     <img height="50rem" alt="Süleyman's Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-512.png" />
 </a>
