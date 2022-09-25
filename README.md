@@ -29,5 +29,6 @@
     <img height="50rem" alt="Süleyman's Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-512.png" />
 </a>
 
+![](https://activity-graph.herokuapp.com/graph?username=SuleymanOzdamar&theme=react-dark&area=true)
 
 
