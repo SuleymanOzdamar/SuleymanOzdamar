@@ -25,8 +25,9 @@
 
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> Contact me
-<a href="[https://www.linkedin.com/in/%C3%B6znur-%C3%B6zen-74b25b205/](https://www.linkedin.com/in/s%C3%BCleyman-%C3%B6zdamar-35020a199/)" target="_blank" rel="nofollow">
+<a href="https://www.linkedin.com/in/s%C3%BCleyman-%C3%B6zdamar-35020a199/" target="_blank" rel="nofollow">
     <img height="50rem" alt="Süleyman's Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-512.png" />
 </a>
+
 
 
