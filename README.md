@@ -12,7 +12,7 @@
 <img align="center" height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 <br/> <br/>
-<img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanOzdamar&include_all_commits=true&hide_border=true&theme=midnight-blue"/>
+<img align="center" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanOzdamar&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
 </p>
 
 <p align="center">
