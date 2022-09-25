@@ -7,9 +7,9 @@
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
 <p align="center">
-<img align="center" height="100em" src="https://github-readme-stats.vercel.app/api?username=SuleymanOzdamar&&show_icons=true&title_color=333&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=SuleymanOzdamar&&show_icons=true&title_color=333&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br/> <br/>
-<img align="center" height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="center" height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 <br/> <br/>
 <img align="center" height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanOzdamar&include_all_commits=true&hide_border=true&theme=midnight-purple"/>
@@ -19,7 +19,7 @@
 <img align="" height='150px' src="https://github-readme-stats-aryashah2k.vercel.app/api?username=SuleymanOzdamar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SuleymanOzdamar&theme=gotham)](https://git.io/streak-stats)
+
 
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
