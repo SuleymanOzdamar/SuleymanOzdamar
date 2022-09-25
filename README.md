@@ -1,6 +1,6 @@
-# I am Süleyman Özdamar 
+# I am Süleyman Özdamar <a><img height="50rem" src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" /></a>
 
-<a><img height="50rem" src="https://64.media.tumblr.com/tumblr_lwa95v31MU1qgwsj9o1_250.gif" /></a>
+
 
 
  
