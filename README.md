@@ -11,7 +11,7 @@
 <br/> <br/>
 <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
-<br/> <br/>
+<br/>
 <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanOzdamar&include_all_commits=true&hide_border=true&theme=midnight-purple" />
 </p>
 
