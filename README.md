@@ -1,7 +1,8 @@
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> I am Süleyman Özdamar 
 
-<img align="center" height="150rem" src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611603dced5755c69dd18fbea6e2033c46922bc107f&rid=giphy.gif&ct=g" /> 
-
+<p align="center">
+    <img height="150rem" src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611603dced5755c69dd18fbea6e2033c46922bc107f&rid=giphy.gif&ct=g" /> 
+</p>
 
 
 
