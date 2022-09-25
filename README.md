@@ -1,6 +1,6 @@
-## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> I am Süleyman Özdamar  <img height="50rem" src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611603dced5755c69dd18fbea6e2033c46922bc107f&rid=giphy.gif&ct=g" /> 
+## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> I am Süleyman Özdamar      <img height="30rem" src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611603dced5755c69dd18fbea6e2033c46922bc107f&rid=giphy.gif&ct=g" /> 
 
-
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
@@ -9,11 +9,6 @@
 <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=SuleymanOzdamar&include_all_commits=true&hide_border=false&theme=gotham" />
 </p>
-
-
-
-
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
 
 
