@@ -24,6 +24,8 @@
     <img height="50rem" alt="Süleyman's Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-512.png" />
 </a>
 
+## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> My Graphic
+
 ![](https://activity-graph.herokuapp.com/graph?username=SuleymanOzdamar&theme=react-dark&area=true)
 
 
