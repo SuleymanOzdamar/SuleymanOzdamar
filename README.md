@@ -2,11 +2,6 @@
 
 <img src="https://media0.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=790b7611603dced5755c69dd18fbea6e2033c46922bc107f&rid=giphy.gif&ct=g" /> 
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
-
-
-
-
 
 
 
@@ -20,7 +15,7 @@
 </p>
 
 
-
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 
 
 
