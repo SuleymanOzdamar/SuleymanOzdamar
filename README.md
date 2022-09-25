@@ -7,8 +7,6 @@
 
 ## <img alt=".." height="25rem" src="https://user-images.githubusercontent.com/71924410/122061745-78121800-cdf7-11eb-8133-14e87a0bfb93.png" /> GitHub Analytics
 <p align="center">
-<img align="" height='150px' src="https://github-readme-stats-SuleymanOzdamar.vercel.app/api?username=SuleymanOzdamar&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="SuleymanOzdamar" />
-</p>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SuleymanOzdamar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br/> <br/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuleymanOzdamar&layout=compact">
